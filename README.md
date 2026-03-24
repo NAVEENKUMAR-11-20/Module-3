@@ -16,6 +16,7 @@ items=[153,147,124,102]
 print(sum(items))
 
 Output:
+
 <img width="585" height="196" alt="image" src="https://github.com/user-attachments/assets/a685de35-56fa-43f0-b514-b062eafa1249" />
 
 
@@ -54,6 +55,7 @@ for i in items:
 print("Words without 'e':", l1)
 
 Output:
+
 <img width="580" height="181" alt="image" src="https://github.com/user-attachments/assets/0c1af93c-54a2-4ca5-a429-63d52dd8b72f" />
 
 
@@ -88,6 +90,7 @@ def remove(a):
             print(a[i],end='')
             
 Output:
+
 <img width="863" height="269" alt="image" src="https://github.com/user-attachments/assets/492e5a91-51a5-44e3-958c-385eb03070ad" />
 
 
@@ -154,6 +157,7 @@ print("n" in tuplex)
 print("8" in tuplex)
 
 Output:
+
 <img width="967" height="302" alt="image" src="https://github.com/user-attachments/assets/f34b0fa8-1299-47d9-9197-863607cd0599" />
 
 
